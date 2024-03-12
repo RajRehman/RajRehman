@@ -19,7 +19,6 @@
 ### Technical Skills 💻
 
 **Languages:**   Python, C, Java, SQL, TypeScript, JavaScript, Bash/Shell scripting, Haskell, HTML, CSS 
-
 **Libs/Frameworks:**   Express.js, Node.js, React, Next.js, Matplotlib  
 **Developer Tools:**  Git, GitHub, Docker, Linux, VS Code, MySQL, Excel, Powerpoint, Figma  
 
